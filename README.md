@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Clezer!
 
 🎮 **Passionate about technology, games, and AI**  
-🌱 Currently learning **Python** and developing my programming skills.  
+🌱 Currently learning **Python** and developing my programming skills.
 🎯 **Goal:** To create games and applications that combine creativity and technology.
 
 ---
@@ -11,6 +11,13 @@
 - **Languages:** Python (in progress) | Future goals: C#, C++, Java  
 - **Development Tools:** Visual Studio Code, Git, and GitHub  
 - **Interests:** Artificial Intelligence, Game Development, Robotics  
+
+---
+
+## 🎓 Education
+
+- **Software Engineering** (2025-2028)
+- **Civil Engineering** (Completed)
 
 ---
 
