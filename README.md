@@ -16,7 +16,7 @@
 
 ## 🎓 Education
 
-- **Software Engineering** (2025-2028)
+- **Software Engineering** (2025-2027)
 - **Civil Engineering** (Completed)
 
 ---
