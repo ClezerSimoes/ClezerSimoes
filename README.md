@@ -23,10 +23,19 @@
 
 ## 🎲 Projects in Progress
 
-- **📜 Visual Hangman:** An App designed to help expand vocabulary when learning languages, inspired by the classic hangman game.  
-- **🎮 Action RPG Game:** A future project featuring metroidvania elements and co-op gameplay for up to 4 players, combining nonsense and comedy-horror themes.  
+- **📚Bradesco Bootcamp Java Cloud Native**
+- **📚AWS Academy**
+- **📚AVANTI Front-End Course**
+
+---
+
+## 🎯 Future Projects
 
 > *I'm still a programming beginner and currently focusing on my studies, but I have well-formed concepts for these projects and plan to start them soon.*
+
+
+- **🎮 Visual Hangman:** An App designed to help expand vocabulary when learning languages, inspired by the classic hangman game.  
+- **🎮 Simple Action RPG Game:** A future project featuring metroidvania elements and co-op gameplay for up to 4 players, combining nonsense and comedy-horror themes.
 
 ---
 
